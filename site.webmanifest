@@ -1,0 +1,13 @@
+{
+  "name": "Peptides Cabo",
+  "short_name": "Peptides Cabo",
+  "description": "Physician-guided semaglutide, tirzepatide & peptide weight loss therapy in Cabo San Lucas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F1E6",
+  "theme_color": "#333B22",
+  "icons": [
+    { "src": "assets/img/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
